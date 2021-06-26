@@ -1,0 +1,31 @@
+// It's highly recommended to change the default colors
+// to match your app's branding.
+
+$primary: #03a11d;
+$secondary: #26a69a;
+$accent: #9c27b0;
+
+$input-bg-color: #2e00fa;
+$input-bg: blue;
+$cem: blue;
+
+$red-15: #4000d5 !default;
+
+$dark: #1d1d1d;
+
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f2c037;
+
+$input-font-size: 14px !default;
+$input-text-color: rgba(0, 0, 0, 0.87) !default;
+$input-label-color: rgba(0, 0, 0, 0.6) !default;
+$input-autofill-color: rgb(143, 53, 53) !default;
+
+$generic-border-radius: 0px !default;
+
+$dimmed-background: rgba(94, 73, 153, 0.4) !default;
+$light-dimmed-background: rgba(192, 67, 67, 0.6) !default;
+
+@import "~quasar-variables-styl";
